@@ -1,4 +1,11 @@
-### Description (ENG)
+### Metric analysis with CausalImpact
+
+### Tools:
+- Python
+- Clickhouse
+- CausalImpact
+
+### Description 
 Maintaining and stimulating user activity is an important task for a product like ours. To do this, our team of marketers decided to organize a flashmob in the news feed: participants must make a post where they tell some interesting fact about themselves and publish it with a hashtag. The three posts with the most likes receive prizes.
 
 The flashmob took place from 2023-10-12 to 2023-10-18. Our task as an analyst is to evaluate the effectiveness of this event.
